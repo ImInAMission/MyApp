@@ -32,6 +32,6 @@ The project also follows clean Git usage with meaningful commit messages and ver
 ## ⚙️ Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ImInAMission/MyApp
+   git clone https://github.com/ImInAMission/MyApp.git
 
 
