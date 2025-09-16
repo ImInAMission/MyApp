@@ -1,5 +1,9 @@
 # Android Assessment Application
 
+👨‍💻 Author:
+Frandika Tandela (s8087695).
+Developed as part of an academic assessment  (NIT3213).
+
 ## 📌 Project Overview
 This is an Android application developed for coursework assessment.  
 It demonstrates user authentication, dashboard data retrieval via API, and entity details display.  
@@ -29,3 +33,5 @@ The project also follows clean Git usage with meaningful commit messages and ver
 1. Clone the repository:
    ```bash
    git clone https://github.com/ImInAMission/MyApp
+
+
